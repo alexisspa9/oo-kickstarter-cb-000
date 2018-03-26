@@ -4,4 +4,8 @@ class Backer
     @name = name
     @projects = []
   end
+  def back_project(project)
+    
+    
+  end
 end
